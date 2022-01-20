@@ -9,4 +9,5 @@
 	<rts value="libc.a"/>
 	<createSlaveProjects value=""/>
 	<isTargetManual value="true"/>
+	<origin value="/home/can/Documents/LIBRARY/ccs_works/usb_dev_echo"/>
 </projectOptions>
